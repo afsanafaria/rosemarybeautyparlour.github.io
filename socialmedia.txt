@@ -1,0 +1,30 @@
+<section class="socialmedia" id="smid">
+  <div class="container text-center">
+    <h1 class="text-center font-weight-bold">Get In Touch By Socialmedia</h1>
+    <div class="row">
+    
+  </div>
+<div class="col-md-8">
+  <div class="follow"><b>Address:</b>Muradpur ,Chattogram.
+    
+  </div>
+
+
+  <div class="follow"><b>Address:</b>Muradpur ,Chattogram.
+    
+  </div>
+
+
+  <div class="follow"><b>Address:</b>Muradpur ,Chattogram.
+    
+  </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+
+.follow{
+	padding: 10px;
+	margin: 15px;
+}
